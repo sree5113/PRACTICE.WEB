@@ -1,0 +1,22 @@
+.k{
+    text-align: center;
+    color: white;
+}
+
+.l{
+    text-align: center;
+    background-color:dimgray;
+    background-size: 100px;
+}
+.s{
+    text-align: center;
+    background-color: aqua;
+}
+.c{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+P{
+    color: goldenrod;
+}
