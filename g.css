@@ -10,7 +10,8 @@
 }
 .s{
     text-align: center;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
+    color: grey;
 }
 .c{
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -18,5 +19,40 @@
 }
 
 P{
-    color: goldenrod;
+    color:gray;
 }
+
+.vasu{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150;
+    width: 50%;
+}
+.co{
+    position: relative;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    background-color: rgb(81, 173, 204);
+
+}
+.center{
+    position: absolute;
+    top: 20%;
+    bottom: 50%;
+    left: 25%;
+    right: 25%;
+}
+.log{
+    position:absolute;
+    top: 20%;
+    font-size: small;
+    left: 45%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+}
+
+
+
+
